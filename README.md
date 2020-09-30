@@ -1,4 +1,4 @@
-# ThreatModellingGame
+# ThreatModellingGame - An Easy Tutorial
 
 ## Description
 The Elevation of Privilege (EoP) Card Game for remote teams.
